@@ -1,5 +1,6 @@
 int main(void)
 {
-  printf("hellow");
+	printf("hellow");
+	printf("ktmicro\n");
 }
   
